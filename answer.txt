@@ -1,0 +1,14 @@
+Question 1:
+a) There are some outlier shops where they sell expensive shoes, which make our calculation of AOV seems high.
+We can evaluate this data better by using linear regression, and draw a line through the data points. We would get best
+prediction in this case because most of the shops sell this model of shoe at regular price.
+
+b) I would use Least Square in Linear Regression to report for this dataset.
+
+c) Its value is the result of y= ax+b when x=1. I attached file "q1.py" to demonstrate how to find the values for a and b, 
+however, depending on how we shuffle the dataset, a and b will vary.
+
+Question 2:
+a) 54
+b) Peacock
+c) Product ID: 31
